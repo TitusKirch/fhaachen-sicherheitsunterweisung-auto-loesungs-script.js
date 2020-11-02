@@ -29,11 +29,7 @@ We use [SemVer](http://semver.org/) for versioning. For available versions, see 
 
 ## Built with
 
-* [node-sass](https://github.com/sass/node-sass) - Node.js bindings to libsass
-* [nodemon](https://github.com/remy/nodemon/) - Monitor for any changes in your node.js application and automatically restart the server - perfect for development
-* [PostCSS CLI](https://github.com/postcss/postcss-cli) - CLI for postcss
-* [postcss-import](https://github.com/postcss/postcss-import) - PostCSS plugin to inline @import rules content
-* [tailwindcss](https://github.com/tailwindcss/tailwindcss/) - A utility-first CSS framework for rapid UI development.
+* love
 
 ## Authors
 
